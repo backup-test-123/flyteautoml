@@ -1,2 +1,2 @@
-# flytesnacks
-A repository of Flyte example workflows
+# flyteautoml
+A repository of Flyte experimental automl workflows
